@@ -4,29 +4,34 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
-const Page = ({ name }) => {
-  switch (name) {
-    case 'About':
-      return <About />;
-    case 'Resume':
-      return <Resume />;
-    case 'Contact':
-      return <Contact />;
-    default:
-      return <Home />;
-  }
-}
+
 function Portfolio() {
-  const [currentPage, setCurrentPage] = useState('Home');
-  const handlePageChange = (value) => setCurrentPage(value);
-  
+  // Using useState, set the default value for currentPage to 'Home'
+  const [currentPage, handlePageChange] = useState('Home');
+
+  // The renderPage method uses a switch statement to render the appropriate current page
+  const renderPage = () => {
+    switch (currentPage) {
+      case 'About':
+        return <About />;
+      case 'Resume':
+        return <Resume />;
+      case 'Contact':
+        return <Contact />;
+      default:
+        return <Home />;
+    }
+  };
+
   return (
     <div>
+      {/* Pass the state value and the setter as props to NavTabs */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      <div>
-        <Page name={currentPage} />
-      </div>
+      {/* Call the renderPage function passing in the currentPage */}
+      <div>{renderPage(currentPage)}</div>
     </div>
   );
 }
+
 export default Portfolio;
+
