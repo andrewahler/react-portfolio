@@ -26,5 +26,19 @@
         "github":"https://github.com/andrewahler/note-taker",
         "live":"https://andrewahler.github.io/note-taker/",
         "screenshot":"/images/note.jpg"
+    },
+    {
+        "app":"Runbuddy",
+        "description":"A fitness website",
+        "github":"https://github.com/andrewahler/run-buddy",
+        "live":"https://andrewahler.github.io/run-buddy/",
+        "screenshot":"/images/runbuddy.jpg"
+    },
+    {
+        "app":"Weather",
+        "description":"A weather app that provides a 5 day forcast",
+        "github":"https://github.com/andrewahler/weather-dashboard",
+        "live":"https://andrewahler.github.io/weather-dashboard/",
+        "screenshot":"/images/weather.jpg"
     }
 ]
