@@ -1,16 +1,30 @@
 [
     {
         "app":"Password Generator",
-        "description":"JS assignment to generate password based on user choice",
-        "github":"",
-        "live":"",
-        "screenshot":"/images/password.jpeg"
+        "description":"generate password based on user choice",
+        "github":"https://github.com/andrewahler/secure-password-generator",
+        "live":" https://andrewahler.github.io/secure-password-generator/",
+        "screenshot":"/images/password.jpg"
     },
     {
-        "app":"Password Generator",
-        "description":"JS assignment to generate password based on user choice",
-        "github":"",
-        "live":"",
-        "screenshot":"/images/password.jpeg"
+        "app":"Coding Quiz",
+        "description":"Short timed coding quiz",
+        "github":"https://github.com/andrewahler/coding-quiz",
+        "live":"https://andrewahler.github.io/coding-quiz/",
+        "screenshot":"/images/quiz.jpg"
+    },
+    {
+        "app":"Doorman",
+        "description":"A health care application",
+        "github":"https://github.com/tiptondt1998/Doorman",
+        "live":"https://gentle-hollows-60962.herokuapp.com/login",
+        "screenshot":"/images/doorman.jpg"
+    },
+    {
+        "app":"Note Taker",
+        "description":"Save and upload notes",
+        "github":"https://github.com/andrewahler/note-taker",
+        "live":"https://andrewahler.github.io/note-taker/",
+        "screenshot":"/images/note.jpg"
     }
 ]
