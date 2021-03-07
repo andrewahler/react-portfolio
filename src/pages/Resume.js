@@ -1,4 +1,5 @@
 import React from "react";
+import DownloadLink from "react-download-link";
 
 const Resume = () => (
 <div>
@@ -46,5 +47,9 @@ Solved advanced technical problems for customers including iTunes, iCloud, iPhon
 </p>
 </div>
 );
-
+<DownloadLink
+    label="Download"
+    filename="resume"
+    exportFile={() => "images/resume.doc"}
+/>
 export default Resume;
