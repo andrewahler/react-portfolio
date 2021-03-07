@@ -45,11 +45,13 @@ Tier 2 Tech Advisor
 Solved advanced technical problems for customers including iTunes, iCloud, iPhone, and other Mac solutions. Helped customers ensure critical information was recovered including music and pictures.
 •	Quickly chosen as a new hire mentor 
 </p>
-</div>
-);
 <DownloadLink
     label="Download"
     filename="resume"
     exportFile={() => "images/resume.doc"}
 />
+
+</div>
+);
+
 export default Resume;
