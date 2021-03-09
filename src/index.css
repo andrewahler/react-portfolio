@@ -85,7 +85,7 @@ h3 {
   width:33%;
 }
 .app{
-  background-image: url(./images/background.jpg);
+  background-image: url(./images/car.jpg);
 }
 @media screen and (max-width: 980px) {
   header h1 a {
