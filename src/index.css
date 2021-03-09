@@ -13,7 +13,6 @@ body {
 }
 header {
   padding: 60px 35px;
-  background-image: url("/images/valley.jpg");
 }
 header a {
   text-decoration: none;
@@ -38,6 +37,7 @@ footer {
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
+  background-image: url("/images/grass.jpg");
 }
 footer h2 {
   display: inline;
