@@ -84,6 +84,9 @@ h3 {
 .card{
   width:33%;
 }
+.app{
+  background-image: url(./images/background.jpg);
+}
 @media screen and (max-width: 980px) {
   header h1 a {
     color: white;
