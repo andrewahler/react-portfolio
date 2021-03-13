@@ -4,21 +4,21 @@
         "description":"generate password based on user choice",
         "github":"https://github.com/andrewahler/secure-password-generator",
         "live":" https://andrewahler.github.io/secure-password-generator/",
-        "screenshot":"/images/password.jpg"
-    },
-    {
+        "screenshot":"/images/password.JPG"
+        },
+            {
         "app":"Coding Quiz",
         "description":"Short timed coding quiz",
         "github":"https://github.com/andrewahler/coding-quiz",
         "live":"https://andrewahler.github.io/coding-quiz/",
-        "screenshot":"/images/quiz.jpg"
+        "screenshot":"./images/quiz.JPG"
     },
     {
         "app":"Doorman",
         "description":"A health care application",
         "github":"https://github.com/tiptondt1998/Doorman",
         "live":"https://gentle-hollows-60962.herokuapp.com/login",
-        "screenshot":"/images/doorman.jpg"
+        "screenshot":"/images/doorman.PNG"
     },
     {
         "app":"Note Taker",
@@ -32,7 +32,7 @@
         "description":"A fitness website",
         "github":"https://github.com/andrewahler/run-buddy",
         "live":"https://andrewahler.github.io/run-buddy/",
-        "screenshot":"/images/runbuddy.jpg"
+        "screenshot":"../../public/images/runbuddy.jpg"
     },
     {
         "app":"Weather",
