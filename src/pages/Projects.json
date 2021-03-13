@@ -4,7 +4,7 @@
         "description":"generate password based on user choice",
         "github":"https://github.com/andrewahler/secure-password-generator",
         "live":" https://andrewahler.github.io/secure-password-generator/",
-        "screenshot":"/images/password.JPG"
+        "screenshot":"./images/password.JPG"
         },
             {
         "app":"Coding Quiz",
@@ -18,27 +18,27 @@
         "description":"A health care application",
         "github":"https://github.com/tiptondt1998/Doorman",
         "live":"https://gentle-hollows-60962.herokuapp.com/login",
-        "screenshot":"/images/doorman.PNG"
+        "screenshot":"./images/doorman.PNG"
     },
     {
         "app":"Note Taker",
         "description":"Save and upload notes",
         "github":"https://github.com/andrewahler/note-taker",
         "live":"https://andrewahler.github.io/note-taker/",
-        "screenshot":"/images/note.jpg"
+        "screenshot":"./images/note.jpg"
     },
     {
         "app":"Runbuddy",
         "description":"A fitness website",
         "github":"https://github.com/andrewahler/run-buddy",
         "live":"https://andrewahler.github.io/run-buddy/",
-        "screenshot":"../../public/images/runbuddy.jpg"
+        "screenshot":"./images/runbuddy.jpg"
     },
     {
         "app":"Weather",
         "description":"A weather app that provides a 5 day forcast",
         "github":"https://github.com/andrewahler/weather-dashboard",
         "live":"https://andrewahler.github.io/weather-dashboard/",
-        "screenshot":"/images/weather.jpg"
+        "screenshot":"./images/weather.jpg"
     }
 ]
