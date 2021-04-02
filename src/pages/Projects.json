@@ -40,5 +40,12 @@
         "github":"https://github.com/andrewahler/weather-dashboard",
         "live":"https://andrewahler.github.io/weather-dashboard/",
         "screenshot":"./images/weather.jpg"
+    },
+    {
+        "app":"Moosic",
+        "description":"A music centered social media platform",
+        "github":"https://github.com/Ondayko14/Moosic",
+        "live":"https://lit-escarpment-33126.herokuapp.com/",
+        "screenshot":"./images/moosic.png"
     }
 ]
